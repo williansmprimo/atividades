@@ -1,2 +1,2 @@
 # atividades
-atividades
+atividades gerais
